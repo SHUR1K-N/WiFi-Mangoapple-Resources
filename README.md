@@ -2,7 +2,7 @@
 Created this info-dump repo as an extension to my YouTube videos about the cheap DIY Wi-Fi Pineapple, AKA **Wi-Fi Mangoapple**. Hoping it helps people that have questions about supported chipsets, configurations, errors, etc..
 
 *I'll keep updating this as much as possible. If you run into problems using this project, open up a GitHub Issue on the [main "Wi-Fi Prineapple Clone" project repo by xchwarze](https://github.com/xchwarze/wifi-pineapple-cloner).*
-https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#guide-videos
+
 ## Table of Contents
 - [Guide videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources#guide-videos)
 	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method)
