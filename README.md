@@ -109,7 +109,7 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 ## Can't connect to open AP
 1. ″Filters″ page in the web UI
 2. Switch both client and SSID filtering to ″Deny List″
-3. "Networking" page again, go to the "Config" tab
+3. "Networking" page, go to the "Config" tab
 4. Ensure "Hide Open SSID" is _unchecked_
    > NOTE: the SSID _will_ be broadcasted sometimes even when set to hidden, so uncheck it regardless
 6. "Update Access Point" button, regardless of the above setting
