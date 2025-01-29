@@ -2,21 +2,21 @@
 Created this info-dump repo as an extension to my YouTube videos about the cheap DIY Wi-Fi Pineapple, AKA **Wi-Fi Mangoapple**. Hoping it helps people that have questions about supported chipsets, configurations, errors, etc..
 
 *I'll keep updating this as much as possible. If you run into problems using this project, open up a GitHub Issue on the [main "Wi-Fi Prineapple Clone" project repo by xchwarze](https://github.com/xchwarze/wifi-pineapple-cloner).*
-
+https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#guide-videos
 ## Table of Contents
-- [Guide videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#guide-videos)
-	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#hardware--installation-easiest-method)
-	- [Upgrade + configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
-- [Chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#chipsets)
-  - [Notes](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#notes)
-  - [2.4GHz / dual-band adapter decision](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#how-do-i-know-whether-i-should-get-a-24ghz-or-dual-band-adapter)
-  - [Supported 2.4GHz chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#supported-24ghz-chipsets)
-  - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#supported-24ghz--5ghz-dual-band-chipsets)
-  - [Tested & confirmed as NOT supported](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#tested--confirmed-as-not-supported)
-  - [Personally ordered RT5370 adapter links](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#personally-ordered--verified-rt5370-adapter-links-non-affiliate)
-- [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#troubleshooting)
-  - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
-  - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources/README.md#cant-connect-to-open-ap)
+- [Guide videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources#guide-videos)
+	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method)
+	- [Upgrade + configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-mangoapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
+- [Chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
+  - [Notes](https://github.com/SHUR1K-N/wifi-mangoapple-resources#notes)
+  - [2.4GHz / dual-band adapter decision](https://github.com/SHUR1K-N/wifi-mangoapple-resources#how-do-i-know-whether-i-should-get-a-24ghz-or-dual-band-adapter)
+  - [Supported 2.4GHz chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#supported-24ghz-chipsets)
+  - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#supported-24ghz--5ghz-dual-band-chipsets)
+  - [Tested & confirmed as NOT supported](https://github.com/SHUR1K-N/wifi-mangoapple-resources#tested--confirmed-as-not-supported)
+  - [Personally ordered RT5370 adapter links](https://github.com/SHUR1K-N/wifi-mangoapple-resources#personally-ordered--verified-rt5370-adapter-links-non-affiliate)
+- [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources#troubleshooting)
+  - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
+  - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
 
 ## Guide videos
 ### Hardware & installation — easiest method
@@ -24,6 +24,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 
 ### Upgrade + configuration, tips, chipsets, troubleshooting, and more
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHtpso21P0o/maxresdefault.jpg)](https://youtu.be/pHtpso21P0o)
+
 ---
 ---
 # Chipsets
