@@ -4,7 +4,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 *I'll keep updating this as much as possible. If you run into problems using this project, open up a GitHub Issue on the [main "Wi-Fi Prineapple Clone" project repo by xchwarze](https://github.com/xchwarze/wifi-pineapple-cloner).*
 
 ## Table of Contents
-- [Guide videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources#guide-videos)
+- [Guide Videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources#guide-videos)
 	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method)
 	- [Upgrade + configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-mangoapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
 - [Chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
@@ -18,7 +18,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
 
-## Guide videos
+## Guide Videos
 ### Hardware & installation — easiest method
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udnxagkSzoA/maxresdefault.jpg)](https://youtu.be/udnxagkSzoA)
 
