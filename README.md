@@ -65,7 +65,7 @@ As per documentation, some research, and comments on my videos:
 * RT2671
 * RT2770
 * RT2870
-* RT3070
+* RT3070 ― _confirmed by someone in the video comments_
 * RT3071
 * RT3072
 * RT3370
