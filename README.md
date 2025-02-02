@@ -81,7 +81,7 @@ As per documentation, some research, and comments on my videos:
 * MT7662U/E
 * MT7915
 * RT3572 ― _confirmed by someone in this repo's Issues_
-* RT5572 ― _confirmed by someone in the video comments & Reddit as working (no 5GHz channels 52 – 136 though)_
+* RT5572 ― _personally confirmed + confirmed by someone in the video comments, Instagram, and Reddit_
 * MT7612U ― _most problematic chipset. Try to stay away from it. In several adapters with this chipset, the adapter's **internal emulated storage** is recognized instead of the **Wi-Fi adapter** itself. If running "lsusb" shows the device ID as "0e8d:2870", then you're in that same boat (the "toast" boat). You should either look into another chipset, or get another adapter with the same chipset and try again, or there are multiple commands & configurations you could try to ″switch″ the adapter's mode from storage to Wi-Fi (but it may get tricky and is not worth it)_
 
 ## Tested & confirmed as NOT supported
