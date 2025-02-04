@@ -90,7 +90,7 @@ As per documentation, some research, and comments on my videos:
 * MT7610
 * MT7601U
 * AR9271
-* RTL8811AU
+* RTL8811AU/CU
 * MT7921AUN
 
 ## Personally ordered & verified RT5370 adapter links (non-affiliate)
