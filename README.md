@@ -14,8 +14,9 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
   - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#supported-24ghz--5ghz-dual-band-chipsets)
   - [Tested & confirmed as NOT supported](https://github.com/SHUR1K-N/wifi-mangoapple-resources#tested--confirmed-as-not-supported)
   - [Personally ordered RT5370 adapter links](https://github.com/SHUR1K-N/wifi-mangoapple-resources#personally-ordered--verified-rt5370-adapter-links-non-affiliate)
-- [3D-Printed Cases](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#3d-printed-cases)
-  - [Mangoapple + 2 adapters + USB hub + power bank](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#case-1-wi-fi-mangoapple--2-adapters--usb-hub--power-bank)
+- [Community Cases & Mods](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#community-cases--mods)
+  - [CASE - Mangoapple + 2 adapters + USB hub + power bank](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#case-wi-fi-mangoapple--2-adapters--usb-hub--power-bank)
+  - [MOD - 4 USB ports + case](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#mod-4-usb-ports--case)
 - [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources#troubleshooting)
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
@@ -104,12 +105,18 @@ _If you find any more supported (or unsupported) chipsets during your testing, l
 ---
 ---
 
-# 3D-Printed Cases
-## Case #1 (Wi-Fi Mangoapple + 2 adapters + USB hub + power bank)
+# Community Cases & Mods
+## [CASE] Wi-Fi Mangoapple + 2 adapters + USB hub + power bank
 
 ![large_display_IMG_0600](https://github.com/user-attachments/assets/e6b36dc4-31ee-4643-b4dd-139424c0267b)
 
-### [Thingiverse page with .STLs](https://www.thingiverse.com/thing:6939373)
+[Thingiverse page with .STLs](https://www.thingiverse.com/thing:6939373)
+
+## [MOD] 4 USB ports + case
+
+![hub1](https://github.com/user-attachments/assets/9afa54da-3d45-49d3-ad47-e63a79f2dc1a)
+
+[.STL file here](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources/blob/main/mods/4%20USB%20ports/case.stl)
 
 ---
 ---
