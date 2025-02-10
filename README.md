@@ -20,6 +20,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 - [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources#troubleshooting)
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
+  - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
 
 ## Guide Videos
 ### Hardware & installation — easiest method
@@ -132,3 +133,10 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 4. Ensure "Hide Open SSID" is _unchecked_
    > NOTE: the SSID _will_ be broadcasted sometimes even when set to hidden, so uncheck it regardless
 6. "Update Access Point" button, regardless of the above setting
+
+## Can't format USB flash drive OR USB flash drive not recognized
+1. Verify the USB flash drive is OK by checking it out on your Windows host first
+2. Try manually formatting the USB flash drive (Windows defaults are OK)
+3. Re-attach it and see if it gets picked up correctly (″USB & Storage″ section on the ″Advanced″ page of the web UI should show you the model), or you could run ″lsusb″ / ″lsblk″ manually via SSH
+4. If it's picked up, try running format_sd again (from *outside* the /sd/ directory)
+5. If none of this works, try another USB flash drive altogether (2 people have reported that fixed it)
