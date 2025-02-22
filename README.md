@@ -48,12 +48,6 @@ The *latest* APs even go 6GHz (even higher speeds).
 
 A good starting point to learning about wireless security―at least personally―would be 2.4GHz. But, of course, it would be best if you also tap into 5GHz since that has now become the new norm.
 
-> TL;DR:
-> 
-> Dual-band = 2.4GHz + 5GHz
-> 
-> You'd be missing out on sniffs & attacks for APs and clients that are operating on the 5GHz band (5GHz channels)
-
 ## Supported 2.4GHz chipsets
 As per documentation, some research, and comments on my videos:
 
@@ -124,7 +118,7 @@ _If you find any more supported (or unsupported) chipsets during your testing, l
 
 # Troubleshooting
 ## "Status:Monitor interface won't start! Try to run airmon-ng..." error message
-You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's just a catch-all error message, and playing around with airmon-ng will not fix this. You'll need an adapter with a [supported chipset]().
+You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's just a catch-all error message. Playing around with airmon-ng will not fix this. You'll need an adapter with a [supported chipset](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets).
 
 ## Can't connect to open AP
 1. ″Filters″ page in the web UI
