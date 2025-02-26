@@ -13,7 +13,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
   - [Supported 2.4GHz chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#supported-24ghz-chipsets)
   - [Supported 2.4GHz + 5GHz (dual-band) chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#supported-24ghz--5ghz-dual-band-chipsets)
   - [Tested & confirmed as NOT supported](https://github.com/SHUR1K-N/wifi-mangoapple-resources#tested--confirmed-as-not-supported)
-  - [Personally ordered RT5370 adapter links](https://github.com/SHUR1K-N/wifi-mangoapple-resources#personally-ordered--verified-rt5370-adapter-links-non-affiliate)
+  - [Personally confirmed & cheapest adapter links](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#personally-ordered--verified-adapter-links-non-affiliate)
 - [Community Cases & Mods](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#community-cases--mods)
   - [CASE - Mangoapple + 2 adapters + USB hub + power bank](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#case-wi-fi-mangoapple--2-adapters--usb-hub--power-bank)
   - [MOD - 4 USB ports + case](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#mod-4-usb-ports--case)
@@ -91,9 +91,13 @@ As per documentation, some research, and comments on my videos:
 * RTL8811AU/CU
 * MT7921AUN
 
-## Personally ordered & verified RT5370 adapter links (non-affiliate)
+## Personally ordered & verified adapter links (non-affiliate)
+### RT5370 (2.4GHz)
 * https://a.aliexpress.com/_ooLUeiX (1 quantity order limit)
 * https://a.aliexpress.com/_ooHxnUP
+
+### RT5572 (dual-band)
+* https://a.aliexpress.com/_oFORY85
 
 _If you find any more supported (or unsupported) chipsets during your testing, let me know in the Issues / Discussions / YouTube video comments. Many of us would benefit from your intel and appreciate it!_
 
