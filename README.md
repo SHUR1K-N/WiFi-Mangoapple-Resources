@@ -93,11 +93,11 @@ As per documentation, some research, and comments on my videos:
 
 ## Personally ordered & verified adapter links (non-affiliate)
 ### RT5370 (2.4GHz)
-* https://a.aliexpress.com/_ooLUeiX (1 quantity order limit)
-* https://a.aliexpress.com/_ooHxnUP
+* https://www.aliexpress.com/item/2255799898010658.html (1 quantity order limit)
+* https://www.aliexpress.com/item/2255799900873717.html
 
 ### RT5572 (dual-band)
-* https://a.aliexpress.com/_oFORY85
+* https://www.aliexpress.com/item/3256806000755742.html
 
 _If you find any more supported (or unsupported) chipsets during your testing, let me know in the Issues / Discussions / YouTube video comments. Many of us would benefit from your intel and appreciate it!_
 
