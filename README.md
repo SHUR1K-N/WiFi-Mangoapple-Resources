@@ -98,7 +98,7 @@ As per documentation, some research, and comments on my videos:
 
 ### RT5572 (dual-band)
 * https://www.aliexpress.com/item/3256806000755742.html
-* https://www.aliexpress.com/item/1005008392078147.html ― _confirmed by someone in on Instgram_
+* https://www.aliexpress.com/item/1005008392078147.html ― _confirmed by someone on Instagram_
 
 _If you find any more supported (or unsupported) chipsets during your testing, let me know in the Issues / Discussions / YouTube video comments. Many of us would benefit from your intel and appreciate it!_
 
