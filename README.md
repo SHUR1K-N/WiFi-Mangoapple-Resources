@@ -137,9 +137,11 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 1. Verify the USB flash drive is OK by checking it out on your Windows machine first
 2. Try manually formatting the USB flash drive (Windows defaults are OK)
 3. Re-attach it and see if it gets picked up correctly (″USB & Storage″ section on the ″Advanced″ page of the web UI should show you the model), or you could run ″lsusb″ / ″lsblk″ manually via SSH
-4. If it's picked up, try running format_sd again (from *outside* the /sd/ directory)
+4. If it's picked up, try running `wpc-tools format_sd` again (from *outside* the /sd/ directory)
 5. If none of the above works, run the following commands:
+   
    `opkg update`
+   
    `opkg install kmod-usb-storage-uas`
-6. Try running format_sd again (from *outside* the /sd/ directory)
-7. If none of this works, try another USB flash drive altogether (multiple people have reported that fixed it)
+7. Try running `wpc-tools format_sd` again (from *outside* the /sd/ directory)
+8. If none of this works, try another USB flash drive altogether (multiple people have reported that fixed it)
