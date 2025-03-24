@@ -6,7 +6,10 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 ## Table of Contents
 - [Guide Videos](https://github.com/SHUR1K-N/wifi-mangoapple-resources#guide-videos)
 	- [Hardware & installation (easiest method)](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method)
-	- [Upgrade + configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-mangoapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
+	- [Upgrades, configuration, tips, chipsets, troubleshooting, and more](https://github.com/SHUR1K-N/wifi-mangoapple-resources#upgrade--configuration-tips-chipsets-troubleshooting-and-more)
+- [Parts](https://github.com/SHUR1K-N/wifi-mangoapple-resources#parts)
+	- [Base Wi-Fi Mangoapple](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#basic-wi-fi-mangoapple)
+ 	- [Upgraded Wi-Fi Mangoapple](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#upgraded-wi-fi-mangoapple)
 - [Chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
   - [Notes](https://github.com/SHUR1K-N/wifi-mangoapple-resources#notes)
   - [2.4GHz / dual-band adapter decision](https://github.com/SHUR1K-N/wifi-mangoapple-resources#how-do-i-know-whether-i-should-get-a-24ghz-or-dual-band-adapter)
@@ -28,6 +31,19 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 
 ### Upgrade + configuration, tips, chipsets, troubleshooting, and more
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pHtpso21P0o/maxresdefault.jpg)](https://youtu.be/pHtpso21P0o)
+
+---
+---
+# Parts
+## Basic Wi-Fi Mangoapple
+* GL.iNet Mango (v2) router ([Official](https://store.gl-inet.com/products/gl-mt300n-v2-mini-smart-router) / [Amazon](https://www.amazon.com/dp/B073TSK26W))
+* 1 or 2 Wi-Fi adapters with [supported chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
+
+## Upgraded Wi-Fi Mangoapple
+* GL.iNet Mango (v2) router ([Official](https://store.gl-inet.com/products/gl-mt300n-v2-mini-smart-router) / [Amazon](https://www.amazon.com/dp/B073TSK26W))
+* 2× Wi-Fi adapters with [supported chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
+* USB flash drive
+* USB hub with a minimum of 3 ports
 
 ---
 ---
