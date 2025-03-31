@@ -23,7 +23,9 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 - [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources#troubleshooting)
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
+  - [No handshakes captured](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#no-handshakes-captured)
   - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
+  - [Going back to stock firmware](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#going-back-to-the-mangos-stock-firmware)
 
 ## Guide Videos
 ### Hardware & installation — easiest method
@@ -149,6 +151,13 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
    > NOTE: the SSID _will_ be broadcasted sometimes even when set to hidden, so uncheck it regardless
 6. "Update Access Point" button, regardless of the above setting
 
+## No handshakes captured
+Though the handshakes are not *shown* in the web UI, they're actually being saved at root (/). The normal behavior would be saving handshakes in the handshakes directory (/tmp/handshakes).
+
+The above ″misplacing″ of handshakes seems to be a problem with the project itself (at least for some people). The project author has a [GitHub Issue open](https://github.com/xchwarze/wifi-pineapple-cloner/issues/57) for this as well.
+
+One ″workaround″ I've found very recently is using a router with the mips_24kc architecture like the GL.iNet AR300M-16 (Shadow). Can confirm, handshakes are shown in the web UI using that router.
+
 ## Can't format USB flash drive OR USB flash drive not recognized
 1. Verify the USB flash drive is OK by checking it out on your Windows machine first
 2. Try manually formatting the USB flash drive (Windows defaults are OK)
@@ -161,3 +170,7 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
    `opkg install kmod-usb-storage-uas`
 7. Try running `wpc-tools format_sd` again (from *outside* the /sd/ directory)
 8. If none of this works, try another USB flash drive altogether (multiple people have reported that fixed it)
+
+## Going back to the Mango's stock firmware
+1. Get to the recovery mode again (as shown in the video)
+2. Flash the [original router firmware](https://dl.gl-inet.com/router/mt300n-v2/stable)
