@@ -86,7 +86,7 @@ As per documentation, some research, and comments on my videos:
 * RT3072
 * RT3370
 * RTL8187L/B
-* RT5370 ― _personally confirmed + used in my Mangoapple videos_
+* RT5370 ― _personally confirmed + used in my Mangoapple & Shadowapple videos_
 
 ## Supported 2.4GHz + 5GHz (dual-band) chipsets
 As per documentation, some research, and comments on my videos:
@@ -169,7 +169,7 @@ One ″workaround″ I've found very recently is using a router with the mips_24
    
    `opkg install kmod-usb-storage-uas`
 7. Try running `wpc-tools format_sd` again (from *outside* the /sd/ directory)
-8. If none of this works, try another USB flash drive altogether (multiple people have reported that fixed it)
+8. If none of this works, try another USB flash drive altogether (multiple people have reported this fixed it)
 
 ## Going back to the Mango's stock firmware
 1. Get to the recovery mode again (as shown in the video)
