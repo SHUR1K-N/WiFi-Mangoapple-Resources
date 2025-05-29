@@ -25,6 +25,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
   - [No handshakes captured](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#no-handshakes-captured)
   - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
+  - [No ″Install to SD″ button for modules](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#no-install-to-sd-button-for-modules)
   - [Going back to stock firmware](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#going-back-to-the-mangos-stock-firmware)
 
 ## Guide Videos
@@ -171,6 +172,10 @@ One ″workaround″ I've found very recently is using a router with the mips_24
 7. Try running `wpc-tools format_sd` again (from *outside* the /sd/ directory)
 8. If none of this works, try another USB flash drive altogether (multiple people have reported this fixed it)
 
+## No ″Install to SD″ button for modules
+1. Re-install missing packages using `wpc-tools missing_packages`
+
 ## Going back to the Mango's stock firmware
 1. Get to the recovery mode again (as shown in the video)
 2. Flash the [original router firmware](https://dl.gl-inet.com/router/mt300n-v2/stable)
+3. 
