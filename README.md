@@ -23,6 +23,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 - [Troubleshooting](https://github.com/SHUR1K-N/wifi-mangoapple-resources#troubleshooting)
   - ["Status:Monitor interface won't start! Try to run airmon-ng..."](https://github.com/SHUR1K-N/wifi-mangoapple-resources#statusmonitor-interface-wont-start-try-to-run-airmon-ng-error-message)
   - [Can't connect to open AP](https://github.com/SHUR1K-N/wifi-mangoapple-resources#cant-connect-to-open-ap)
+  - [OpenWRT v19.07.7 not available](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#openwrt-v19077-not-available-in-the-openwrt-firmware-selector)
   - [No handshakes captured](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#no-handshakes-captured)
   - [Can't format USB flash drive / USB flash drive unrecognized](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#cant-format-usb-flash-drive-or-usb-flash-drive-not-recognized)
   - [No ″Install to SD″ button for modules](https://github.com/SHUR1K-N/WiFi-Mangoapple-Resources#no-install-to-sd-button-for-modules)
@@ -151,6 +152,9 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 4. Ensure "Hide Open SSID" is _unchecked_
    > NOTE: the SSID _will_ be broadcasted sometimes even when set to hidden, so uncheck it regardless
 6. "Update Access Point" button, regardless of the above setting
+
+## OpenWRT v19.07.7 not available in the OpenWRT firmware selector
+OpenWRT v19.07.7 seems to have been deprecated lately. You can download the closest version to it (v19.07.10 as of now) and try. 
 
 ## No handshakes captured
 Though the handshakes are not *shown* in the web UI, they're actually being saved at root (/). The normal behavior would be saving handshakes in the handshakes directory (/tmp/handshakes).
