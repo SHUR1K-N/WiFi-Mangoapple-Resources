@@ -154,7 +154,9 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 6. "Update Access Point" button, regardless of the above setting
 
 ## OpenWRT v19.07.7 not available in the OpenWRT firmware selector
-OpenWRT v19.07.7 seems to have been deprecated lately. You can download the closest version to it (v19.07.10 as of now) and try. 
+OpenWRT v19.07.7 seems to have been deprecated lately. You can use OpenWRT v21.02.0-rc2 instead, and follow the same steps as in the [tutorial video](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method).
+> NOTE: If v21.02.0-rc2 is unavailable in the future as well, you can use my backup copy (`openwrt-21.02.0-rc2-ramips-mt76x8-glinet_gl-mt300n-v2-squashfs-sysupgrade.bin` in this repo)
+> NOTE: OpenWRT v21.02.0-rc2, as far as I've tested, doesn't seem to have any observable issues that weren't already present with v19.07.7
 
 ## No handshakes captured
 Though the handshakes are not *shown* in the web UI, they're actually being saved at root (/). The normal behavior would be saving handshakes in the handshakes directory (/tmp/handshakes).
