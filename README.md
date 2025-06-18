@@ -155,7 +155,11 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 
 ## OpenWRT v19.07.7 not available in the OpenWRT firmware selector
 OpenWRT v19.07.7 seems to have been deprecated lately. You can use OpenWRT v21.02.0-rc2 instead, and follow the same steps as in the [tutorial video](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method).
+
+> The only difference in the process: While flashing the Pineapple clone image via OpenWRT, _deselect_ the "Keep settings..." option and _select_ the "Force upgrade" option
+
 > NOTE: If v21.02.0-rc2 is unavailable in the future as well, you can use my backup copy (`openwrt-21.02.0-rc2-ramips-mt76x8-glinet_gl-mt300n-v2-squashfs-sysupgrade.bin` in this repo)
+
 > NOTE: OpenWRT v21.02.0-rc2, as far as I've tested, doesn't seem to have any observable issues that weren't already present with v19.07.7
 
 ## No handshakes captured
@@ -184,4 +188,3 @@ One ″workaround″ I've found very recently is using a router with the mips_24
 ## Going back to the Mango's stock firmware
 1. Get to the recovery mode again (as shown in the video)
 2. Flash the [original router firmware](https://dl.gl-inet.com/router/mt300n-v2/stable)
-3. 
