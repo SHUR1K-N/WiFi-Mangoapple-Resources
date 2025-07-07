@@ -44,7 +44,7 @@ Created this info-dump repo as an extension to my YouTube videos about the cheap
 * 1 or 2 Wi-Fi adapters with [supported chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
 
 ## Upgraded Wi-Fi Mangoapple
-* GL.iNet Mango (v2) router ([Official](https://store.gl-inet.com/products/gl-mt300n-v2-mini-smart-router) / [Amazon](https://www.amazon.com/dp/B073TSK26W))
+* GL.iNet Mango (v2) router ([Official](https://store.gl-inet.com/products/gl-mt300n-v2-mini-smart-router) / [Amazon](https://amzn.to/4lEX3lK))
 * 2× Wi-Fi adapters with [supported chipsets](https://github.com/SHUR1K-N/wifi-mangoapple-resources#chipsets)
 * USB flash drive
 * USB hub with a minimum of 3 ports
