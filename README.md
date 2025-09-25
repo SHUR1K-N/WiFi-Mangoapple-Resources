@@ -154,7 +154,9 @@ You're most likely using a Wi-Fi adapter with an _unsupported_ chipset. It's jus
 6. "Update Access Point" button, regardless of the above setting
 
 ## OpenWRT v19.07.7 not available in the OpenWRT firmware selector
-OpenWRT v19.07.7 seems to have been deprecated lately. You can use OpenWRT v21.02.0-rc2 instead, and follow the same steps as in the [tutorial video](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method).
+OpenWRT v19.07.7 seems to have been deprecated lately. You may still download it from the [OpenWRT Archive](https://archive.openwrt.org/releases/19.07.7/targets/ramips/mt76x8/) by looking up your router's target and subtarget on the [OpenWRT Table of hardware](https://openwrt.org/toh) Hardware Data Page.
+
+You can also use OpenWRT v21.02.0-rc2 instead, and follow the same steps as in the [tutorial video](https://github.com/SHUR1K-N/wifi-mangoapple-resources#hardware--installation-easiest-method).
 
 > The only difference in the process: While flashing the Pineapple clone image via OpenWRT, _deselect_ the "Keep settings..." option and _select_ the "Force upgrade" option
 
