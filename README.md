@@ -115,10 +115,12 @@ As per documentation, some research, and comments on my videos:
 ### RT5370 (2.4GHz)
 * https://www.aliexpress.com/item/2255799898010658.html (1 quantity order limit)
 * https://www.aliexpress.com/item/2255799900873717.html
+* https://www.aliexpress.com/item/1005008142040949.html ― _confirmed by someone on Patreon_
 
 ### RT5572 (dual-band)
 * https://www.aliexpress.com/item/3256806000755742.html
 * https://www.aliexpress.com/item/1005008392078147.html ― _confirmed by someone on Instagram_
+* https://www.aliexpress.com/item/1005009223339345.html ― _confirmed by someone on Patreon_
 
 _If you find any more supported (or unsupported) chipsets during your testing, let me know in the Issues / Discussions / YouTube video comments. Many of us would benefit from your intel and appreciate it!_
 
