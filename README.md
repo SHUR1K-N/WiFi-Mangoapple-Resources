@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://discord.gg/4kHYtWAXx9">
+    <img src="assets/forge-logo.png" alt="Signal Forge" width="180">
+  </a>
+</p>
+
+> 📢 **Join [Signal Forge](https://discord.gg/4kHYtWAXx9)**
+>
+> Official community for WiFi Pineapple Cloner, Frieren, OpenWrt, WiFi security, SIGINT tools, hardware builds, modules, labs, and responsible research.
+>
+> Get support, share builds, follow updates, report bugs, suggest features, and contribute modules or tutorials.
+
+
 # Wi-Fi Mangoapple Resources
 Created this info-dump repo as an extension to my YouTube videos about the cheap DIY Wi-Fi Pineapple, AKA **Wi-Fi Mangoapple**. Hoping it helps people that have questions about supported chipsets, configurations, errors, etc..
 
